@@ -1,0 +1,41 @@
+.services {
+  margin-top: 100px;
+}
+
+.servicesContainer {
+  margin-top: 50px;
+  display: flex;
+  gap: 200px;
+}
+
+.servicesH2 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 36px;
+}
+
+.boxHeader {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.boxP {
+  font-weight: 300;
+  font-size: 18px;
+  text-align: center;
+}
+
+.servicesBox {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  align-items: center;
+  border: 1px solid #000000;
+  border-radius: 25px;
+}
+
+.boxLink {
+  font-weight: 700;
+  font-size: 20px;
+}

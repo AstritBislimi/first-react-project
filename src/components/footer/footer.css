@@ -1,0 +1,30 @@
+.footer {
+  padding: 0 10%;
+  margin-top: 100px;
+  padding-top: 80px;
+  background-color: #fee59a;
+  padding-bottom: 40PX;
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerP {
+  display: block;
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.copyRight {
+    margin-top: 60px;
+  width: 100%;
+  text-align: center;
+  display: block;
+  color: #555454;
+  font-style: normal;
+font-weight: 300;
+font-size: 20px
+}

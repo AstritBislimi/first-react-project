@@ -1,0 +1,35 @@
+.banner {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 100px;
+  font-family: "Inter";
+  font-style: normal;
+}
+
+.bannerText {
+  font-weight: 700;
+  font-size: 48px;
+}
+.bannerP {
+  font-weight: 300;
+  font-size: 24px;
+  margin-top: 20px;
+  line-height: 30px;
+}
+
+.bannerBtn {
+  background-color: #fdc212;
+  border: none;
+  padding: 15px 20px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.bannerImg {
+  margin-right: 60px;
+}
+
